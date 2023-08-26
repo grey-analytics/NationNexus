@@ -1,0 +1,4 @@
+The Global Cybersecurity Index (GCI) is an initiative spearheaded by the International Telecommunication Union (ITU) to measure the commitment of countries to cybersecurity. The ITU, a specialized agency of the United Nations, focuses on the harmonization of telecommunication and ICT (Information and Communication Technology) standards globally. Through the GCI, the ITU evaluates and ranks countries based on their preparedness, investment, and other endeavors in the realm of cybersecurity, fostering a collaborative environment to address cyber threats and ensuring a safer digital space for all.
+
+Find more information at:
+https://www.itu.int/en/publications/ITU-D/pages/publications.aspx?parent=D-STR-GCI.01-2021&media=electronic
