@@ -1,2 +1,2 @@
 # NationNexus
-In development. 
+Bridging the world of risk assessment, NationNexus serves as a repository of indexes from  organizations dedicated to gauging country-specific risks. Our repository compiles and consolidates data on various topics, offering stakeholders a singular, reliable point of reference. By centralizing this critical information, we empower analysts to make informed decisions grounded in the latest global risk metrics. At NationNexus, we believe in clarity amidst complexity.
