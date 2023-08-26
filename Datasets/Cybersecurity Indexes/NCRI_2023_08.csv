@@ -1,0 +1,177 @@
+Country,NCSI_Score,GCI_Score,NCRI_Score,Country_Code
+estonia,93.51,99.48,96.495,EE
+lithuania,93.51,97.93,95.72,LT
+belgium,94.81,96.25,95.53,BE
+united kingdom,89.61,99.54,94.575,GB
+germany,90.91,97.41,94.16,DE
+portugal,89.61,97.32,93.465,PT
+spain,88.31,98.52,93.415,ES
+saudi arabia,84.42,99.54,91.98,SA
+greece,89.61,93.98,91.795,GR
+france,84.42,97.6,91.01,FR
+finland,85.71,95.78,90.745,FI
+poland,87.01,93.86,90.435,PL
+netherlands,83.12,97.05,90.085,NL
+austria,85.71,93.89,89.8,AT
+sweden,84.42,94.55,89.485,SE
+malaysia,79.22,98.06,88.64,MY
+denmark,84.42,92.6,88.51,DK
+croatia,83.12,92.53,87.825,HR
+slovakia,83.12,92.36,87.74,SK
+italy,79.22,96.13,87.675,IT
+latvia,75.32,97.28,86.3,LV
+serbia,80.52,89.8,85.16,RS
+singapore,71.43,98.52,84.975,SG
+russian federation,71.43,98.06,84.745,RU
+canada,70.13,97.67,83.9,CA
+romania,89.61,76.29,82.95,RO
+czech republic,90.91,74.37,82.64,CZ
+united states of america,64.94,100.0,82.47,US
+norway,67.53,96.89,82.21,NO
+australia,66.23,97.47,81.85,AU
+luxembourg,66.23,97.41,81.82,LU
+switzerland,75.32,86.97,81.145,CH
+japan,63.64,97.82,80.73,JP
+ireland,75.32,85.86,80.59,IE
+hungary,67.53,91.28,79.405,HU
+indonesia,63.64,94.88,79.26,ID
+israel,67.53,90.93,79.23,IL
+india,59.74,97.5,78.62,IN
+cyprus,66.23,88.82,77.525,CY
+qatar,58.44,94.5,76.47,QA
+egypt,57.14,95.48,76.31,EG
+morocco,70.13,82.41,76.27,MA
+thailand,64.94,86.5,75.72,TH
+azerbaijan,61.04,89.31,75.175,AZ
+bangladesh,67.53,81.27,74.4,BD
+brazil,51.95,96.6,74.275,BR
+north macedonia,58.44,89.92,74.18,MK
+georgia,64.94,81.06,73.0,GE
+china,51.95,92.53,72.24,CN
+slovenia,67.53,74.93,71.23,SI
+oman,45.45,96.04,70.745,OM
+bulgaria,74.03,67.38,70.705,BG
+ukraine,75.32,65.93,70.625,UA
+kazakhstan,48.05,93.15,70.6,KZ
+mauritius,44.16,96.89,70.525,MU
+philippines,63.64,77.0,70.32,PH
+tunisia,53.25,86.23,69.74,TN
+nigeria,54.55,84.76,69.655,NG
+benin,58.44,80.06,69.25,BJ
+united arab emirates,40.26,98.06,69.16,AE
+new zealand,51.95,84.04,67.995,NZ
+iceland,55.84,79.81,67.825,IS
+bahrain,57.14,77.86,67.5,BH
+uruguay,59.74,75.15,67.445,UY
+malta,50.65,83.65,67.15,MT
+ghana,46.75,86.69,66.72,GH
+moldova,57.14,75.78,66.46,MD
+vietnam,36.36,94.59,65.475,VN
+chile,59.74,68.83,64.285,CL
+albania,62.34,64.32,63.33,AL
+zambia,55.84,68.88,62.36,ZM
+kenya,41.56,81.7,61.63,KE
+paraguay,63.64,57.09,60.365,PY
+uganda,50.65,69.98,60.315,UG
+mexico,37.66,81.68,59.67,MX
+peru,62.34,55.67,59.005,PE
+colombia,53.25,63.72,58.485,CO
+costa rica,49.35,67.45,58.4,CR
+tanzania,24.68,90.58,57.63,TZ
+south africa,36.36,78.46,57.41,ZA
+argentina,63.64,50.12,56.88,AR
+rwanda,33.77,79.95,56.86,RW
+monaco,40.26,72.57,56.415,MC
+côte d'ivoire,44.16,67.82,55.99,CI
+kuwait,35.06,75.07,55.065,KW
+turkey,54.55,,54.55,TR
+uzbekistan,36.36,71.11,53.735,UZ
+pakistan,41.56,64.88,53.22,PK
+belarus,53.25,50.57,51.91,BY
+congo,5.19,98.52,51.855,CG
+sri lanka,44.16,58.65,51.405,LK
+iran,19.48,81.07,50.275,IR
+jordan,28.57,70.96,49.765,JO
+brunei darussalam,41.56,56.07,48.815,BN
+montenegro,35.06,53.23,44.145,ME
+kyrgyzstan,37.66,49.64,43.65,KG
+armenia,35.06,50.47,42.765,AM
+korea,68.83,16.14,42.485,KR
+panama,50.65,34.11,42.38,PA
+botswana,29.87,53.06,41.465,BW
+ecuador,53.25,26.3,39.775,EC
+cameroon,32.47,45.63,39.05,CM
+cuba,16.88,58.76,37.82,CU
+dominican republic,71.43,4.2,37.815,DO
+jamaica,41.56,32.53,37.045,JM
+burkina faso,33.77,39.98,36.875,BF
+nepal,28.57,44.99,36.78,NP
+andorra,46.75,26.38,36.565,AD
+algeria,33.77,33.95,33.86,DZ
+liechtenstein,31.17,35.15,33.16,LI
+malawi,27.27,36.83,32.05,MW
+chad,20.78,40.44,30.61,TD
+ethiopia,32.47,27.74,30.105,ET
+bosnia and herzegovina,28.57,29.44,29.005,BA
+trinidad and tobago,33.77,22.18,27.975,TT
+sudan,20.78,35.03,27.905,SD
+venezuela,28.57,27.06,27.815,VE
+senegal,19.48,35.85,27.665,SN
+suriname,22.08,31.2,26.64,SR
+zimbabwe,15.58,36.49,26.035,ZW
+papua new guinea,22.08,26.33,24.205,PG
+bolivia,31.17,16.14,23.655,BO
+tonga,25.97,20.95,23.46,TO
+myanmar,10.39,36.41,23.4,MM
+mongolia,18.18,26.2,22.19,MN
+gambia,11.69,32.12,21.905,GM
+fiji,14.29,29.08,21.685,FJ
+cambodia,23.38,19.12,21.25,KH
+bhutan,23.38,18.34,20.86,BT
+vanuatu,27.27,12.88,20.075,VU
+namibia,28.57,11.47,20.02,NA
+samoa,10.39,29.33,19.86,WS
+libya,10.39,28.78,19.585,LY
+nicaragua,29.87,9.0,19.435,NI
+laos,18.18,20.34,19.26,LA
+guyana,10.39,28.11,19.25,GY
+el salvador,24.68,13.3,18.99,SV
+guatemala,24.68,13.13,18.905,GT
+syrian arab republic,15.58,22.14,18.86,SY
+madagascar,14.29,23.33,18.81,MG
+togo,3.9,33.19,18.545,TG
+barbados,19.48,16.89,18.185,BB
+san marino,22.08,13.83,17.955,SM
+somalia,18.18,17.25,17.715,SO
+bahamas,20.78,13.37,17.075,BS
+mozambique,9.09,24.18,16.635,MZ
+mauritania,14.29,18.94,16.615,MR
+sierra leone,7.79,25.31,16.55,SL
+grenada,20.78,9.41,15.095,GD
+mali,19.48,10.14,14.81,ML
+nauru,7.79,21.42,14.605,NR
+liberia,19.48,9.72,14.6,LR
+belize,18.18,10.29,14.235,BZ
+tajikistan,10.39,17.1,13.745,TJ
+antigua and barbuda,11.69,15.62,13.655,AG
+iraq,6.49,20.71,13.6,IQ
+seychelles,11.69,13.23,12.46,SC
+honduras,22.08,2.2,12.14,HN
+saint kitts and nevis,11.69,12.44,12.065,KN
+saint lucia,12.99,10.96,11.975,LC
+turkmenistan,7.79,14.48,11.135,TM
+angola,9.09,12.99,11.04,AO
+saint vincent and the grenadines,7.79,12.18,9.985,VC
+kiribati,5.19,13.84,9.515,KI
+afghanistan,12.99,5.2,9.095,AF
+yemen,7.79,0.0,7.79,YE
+haiti,7.79,6.4,7.095,HT
+solomon islands,3.9,7.08,5.49,SB
+burundi,7.79,1.73,4.76,BI
+tuvalu,2.6,5.78,4.19,TV
+dominica,3.9,4.2,4.05,DM
+south sudan,1.3,5.75,3.525,SS
+marshall islands,1.3,4.9,3.1,MH
+vatican,2.6,0.0,2.6,VA
+micronesia,1.3,0.0,1.3,FM
+palau,1.3,,1.3,PW
