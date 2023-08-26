@@ -1,0 +1,4 @@
+The National Cyber Security Index (NCSI) is a initiative by the e-Governance Academy (EGA) that measures and ranks countries based on their national cybersecurity capabilities. The EGA, established with the support of the United Nations Development Programme, the Estonian Government, and the Open Society Institute, has been a contributor in facilitating the digital transformation of societies. Through the NCSI, the EGA assesses nations on a comprehensive set of criteria, from digital threat mitigation to response capacities, creating a benchmarking tool that promotes best practices and the enhancement of global cybersecurity standards.
+
+Find more information at:
+https://ncsi.ega.ee/ncsi-index/
